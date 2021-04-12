@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8268d6c9-866f-421b-b605-1ad5d2c73c9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1r5brrz0W4DXk4Q1wjfS45xDQlj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Subset">
+    <configuration name="Combinatiom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Combinatiom" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Permutation" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Permutation2" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Subset" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Subset" />
+        <item itemvalue="Application.Combinatiom" />
+        <item itemvalue="Application.Permutation2" />
+        <item itemvalue="Application.Permutation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spark" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spark_Cousera/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spark_Cousera/wikipedia" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8268d6c9-866f-421b-b605-1ad5d2c73c9a" name="Default Changelist" comment="" />
+      <created>1618269099067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618269099067</updated>
+      <workItem from="1618269102487" duration="1891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1520" y="385" key="#Inspections" timestamp="1618269844077">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1520" y="385" key="#Inspections/0.0.2560.1440/-1680.390.1680.1050@0.0.2560.1440" timestamp="1618269844076" />
+    <state width="1238" height="416" key="GridCell.Tab.0.bottom" timestamp="1618270423490">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1238" height="416" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1680.390.1680.1050@0.0.2560.1440" timestamp="1618270423490" />
+    <state width="1238" height="416" key="GridCell.Tab.0.center" timestamp="1618270423489">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1238" height="416" key="GridCell.Tab.0.center/0.0.2560.1440/-1680.390.1680.1050@0.0.2560.1440" timestamp="1618270423489" />
+    <state width="1238" height="416" key="GridCell.Tab.0.left" timestamp="1618270423488">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1238" height="416" key="GridCell.Tab.0.left/0.0.2560.1440/-1680.390.1680.1050@0.0.2560.1440" timestamp="1618270423488" />
+    <state width="1238" height="416" key="GridCell.Tab.0.right" timestamp="1618270423489">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1238" height="416" key="GridCell.Tab.0.right/0.0.2560.1440/-1680.390.1680.1050@0.0.2560.1440" timestamp="1618270423489" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Permutation2.java</url>
+          <line>41</line>
+          <properties class="Recursion.Permutation2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
